@@ -42,7 +42,7 @@ Full Stack Developer.
 
 @stack: NestJS, Next.js, PostgreSQL, TypeScript.
 
-@tools: Prisma, TailwindCSS, GSAP, Redis, Stripe, PayU.
+@tools: TypeORM, TailwindCSS, GSAP, Redis, Stripe, PayU.
 
 @projects: Andean Bear Digital, Beandor eCommerce, MindMap.
 
@@ -75,12 +75,12 @@ Full Stack Developer.
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" />
 </kbd> 
 <!-- Backend --> 
 <kbd> 
 <kbd>Backend</kbd><br><br> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/> 
 </kbd> 
