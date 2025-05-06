@@ -7,7 +7,6 @@
 
 <div align="center">
 
-
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
@@ -30,27 +29,78 @@
 
 <div align="left">
 
-```
 /**
- * Full Stack Developer.
- *
- * @location: Colombia 🇨🇴
- * @languages: Español, Inglés.
- * @stack: NestJS, Next.js, PostgreSQL, TypeScript.
- * @tools: Prisma, TailwindCSS, GSAP, Redis, Stripe, PayU.
- * @projects: Andean Bear Digital, Beandor eCommerce, MindMap.
- * @interests: Desarrollo web, SEO/SEM, bienestar emocional, IA aplicada.
- * @freelance: Disponible para proyectos internacionales.
- * @formación: Full Stack Developer @ Soy Henry, cursos de C# y React Native en Platzi.
- * @colaboración: Abierto a colaborar y crecer en equipo 🚀
- */
-```
+
+Full Stack Developer.
+
+@location: Colombia 🇨🇴
+
+@languages: Español, Inglés.
+
+@stack: NestJS, Next.js, PostgreSQL, TypeScript.
+
+@tools: Prisma, TailwindCSS, GSAP, Redis, Stripe, PayU.
+
+@projects: Andean Bear Digital, Beandor eCommerce, MindMap.
+
+@interests: Desarrollo web, SEO/SEM, bienestar emocional, IA aplicada.
+
+@freelance: Disponible para proyectos internacionales.
+
+@formación: Full Stack Developer @ Soy Henry, cursos de C# y React Native en Platzi.
+
+@colaboración: Abierto a colaborar y crecer en equipo 🚀
+*/
+
+php-template
+Copiar
+Editar
 
 </div>
 
 </details>
 
-</details> <details> <summary>Tech Stack</summary> <p align="center"> <!-- Lenguajes --> <kbd> <kbd>Languages</kbd><br><br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/> </kbd> <!-- Frontend --> <kbd> <kbd>Frontend</kbd><br><br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"/> </kbd> <!-- Backend --> <kbd> <kbd>Backend</kbd><br><br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/> </kbd> <!-- Database --> <kbd> <kbd>Database</kbd><br><br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis"/> </kbd> <!-- DevOps / Tools --> <kbd> <kbd>Tools</kbd><br><br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/> </kbd> </p> </details>
+<details>
+<summary>Tech Stack</summary> 
+<p align="center"> 
+<!-- Lenguajes --> 
+<kbd> 
+<kbd>Languages</kbd><br><br> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/> 
+</kbd> 
+<!-- Frontend --> 
+<kbd> 
+<kbd>Frontend</kbd><br><br> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"/> 
+</kbd> 
+<!-- Backend --> 
+<kbd> 
+<kbd>Backend</kbd><br><br> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/> 
+</kbd> 
+<!-- Database --> 
+<kbd> 
+<kbd>Database</kbd><br><br> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis"/> 
+</kbd> 
+<!-- DevOps / Tools --> 
+<kbd> 
+<kbd>Tools</kbd><br><br> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/> 
+</kbd> 
+</p> 
+</details>
 
 <details>
   <summary>GitHub Stats</summary>
@@ -115,7 +165,6 @@ If you have any questions about web development, writing mistake-free documentat
 </table>
 </details>
 
-</details>
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
