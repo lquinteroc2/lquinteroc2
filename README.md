@@ -27,7 +27,7 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<div align="left">
+<div align="center">
 
 /**
 
@@ -43,18 +43,14 @@ Full Stack Developer.
 
 @projects: Andean Bear Digital, Beandor eCommerce, MindMap.
 
-@interests: Desarrollo web, SEO/SEM, bienestar emocional, IA aplicada.
+@interests: Web development, SEO/SEM, emotional well-being, applied AI.
 
-@freelance: Disponible para proyectos internacionales.
+@freelance: Available for international projects.
 
-@formación: Full Stack Developer @ Soy Henry, cursos de C# y React Native en Platzi.
+@education: Full Stack Developer @ Soy Henry, C# and React Native courses at Platzi.
 
-@colaboración: Abierto a colaborar y crecer en equipo 🚀
+@collaboration: Open to collaborating and growing in a team 🚀
 */
-
-php-template
-Copiar
-Editar
 
 </div>
 
@@ -174,9 +170,6 @@ If you have any questions about web development, writing mistake-free documentat
 <div align=center>
  <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:kkapagte5@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://leetcode.com/kk10-/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
-<a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
 
 
