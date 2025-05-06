@@ -18,7 +18,10 @@
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+YourName;Welcome+to+My+GitHub+Profile;Curious+and+Inquisitive+by+nature;Full+Stack+Developer;Backend+and+Frontend+Specialist;Web+Development+and+Marketing+Lover;Hardworking+and+Ambitious;Digital+Entrepreneur;Programming+and+SEO%2FSEM+Passionate" alt="Typing SVG" />
+</a>
+
   </div>
 </div>
 
@@ -28,8 +31,6 @@
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
 <div align="center">
-
-/**
 
 Full Stack Developer.
 
@@ -50,7 +51,6 @@ Full Stack Developer.
 @education: Full Stack Developer @ Soy Henry, C# and React Native courses at Platzi.
 
 @collaboration: Open to collaborating and growing in a team 🚀
-*/
 
 </div>
 
