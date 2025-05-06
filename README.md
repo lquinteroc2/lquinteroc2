@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Luis Quintero 👋</h1>
+<h1 align="center">¡Hola! Soy Leonardo Quintero 👋</h1>
 
 <p align="center">
   <b>Desarrollador Full Stack</b><br/>
@@ -35,6 +35,8 @@ Git | GitHub | Trello | Slack | Discord | Zoom
 
 // Otros
 Cloudinary | PayU | Wompi | Redis | Gemini AI | WhatsApp Business API
+```
+
 📂 Proyectos Destacados
 🗓️ Aplicación Gestora de Turnos (Feb 2024 - Mar 2025)
 Web app para gestionar turnos y horarios.
