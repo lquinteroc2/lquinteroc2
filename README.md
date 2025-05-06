@@ -30,25 +30,19 @@
 
 <div align="left">
 
-```js
+```
 /**
- * Represents me.
+ * Full Stack Developer.
  *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
+ * @location: Colombia 🇨🇴
+ * @languages: Español, Inglés.
+ * @stack: NestJS, Next.js, PostgreSQL, TypeScript.
+ * @tools: Prisma, TailwindCSS, GSAP, Redis, Stripe, PayU.
+ * @projects: Andean Bear Digital, Beandor eCommerce, MindMap.
+ * @interests: Desarrollo web, SEO/SEM, bienestar emocional, IA aplicada.
+ * @freelance: Disponible para proyectos internacionales.
+ * @formación: Full Stack Developer @ Soy Henry, cursos de C# y React Native en Platzi.
+ * @colaboración: Abierto a colaborar y crecer en equipo 🚀
  */
 ```
 
