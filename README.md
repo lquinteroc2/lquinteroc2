@@ -62,14 +62,14 @@ Full Stack Developer.
 <summary>Tech Stack</summary> 
 <p align="center"> 
 <!-- Lenguajes --> 
-<kbd> 
+<kbd style="background-color:#1e2a38;border-radius:6px;padding:10px;"> 
 <kbd>Languages</kbd><br><br> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/> 
 </kbd> 
 <!-- Frontend --> 
-<kbd> 
+<kbd style="background-color:#1e2a38;border-radius:6px;padding:10px;"> 
 <kbd>Frontend</kbd><br><br> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/> 
@@ -78,20 +78,20 @@ Full Stack Developer.
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" />
 </kbd> 
 <!-- Backend --> 
-<kbd> 
+<kbd style="background-color:#1e2a38;border-radius:6px;padding:10px;"> 
 <kbd>Backend</kbd><br><br> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/> 
 </kbd> 
 <!-- Database --> 
-<kbd> 
+<kbd style="background-color:#1e2a38;border-radius:6px;padding:10px;"> 
 <kbd>Database</kbd><br><br> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis"/> 
 </kbd> 
 <!-- DevOps / Tools --> 
-<kbd> 
+<kbd style="background-color:#1e2a38;border-radius:6px;padding:10px;"> 
 <kbd>Tools</kbd><br><br> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> 
